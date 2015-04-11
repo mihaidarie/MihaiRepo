@@ -1,0 +1,31 @@
+{
+  "name": "math_example",
+  "version": "0.0.0",
+  "description": "An example of creating a package",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mihaidarie/MihaiRepo"
+  },
+  "keywords": [
+    "math",
+    "example",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "fibonacci"
+  ],
+  "author": "Mihai Darie",
+  "license": "BSD",
+  "bin": {
+    "math_example": "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mihaidarie/MihaiRepo/issues"
+  },
+  "homepage": "https://github.com/mihaidarie/MihaiRepo"
+}
